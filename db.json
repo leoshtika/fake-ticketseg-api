@@ -1,0 +1,150 @@
+{
+  "events": [
+    {
+      "id": 100,
+      "title": "Sinatra Live Tribute",
+      "thumbnail": "http://placehold.it/80x80",
+      "image": "http://placehold.it/600x240",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "The Fox Theatre",
+      "dates": [
+        {
+          "timestamp": 1463869393,
+          "availability": "Περιορισμένα"
+        },
+        {
+          "timestamp": 1463858593,
+          "availability": "Διαθέσιμα"
+        },
+        {
+          "timestamp": 1461266593,
+          "availability": "Εξαντλήθηκαν"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Zone A",
+          "price": 15
+        },
+        {
+          "name": "Zone B",
+          "price": 12
+        },
+        {
+          "name": "Zone C",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "The Baroque Project",
+      "thumbnail": "http://placehold.it/80x80",
+      "image": "http://placehold.it/600x240",
+      "description": "Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Block 33",
+      "dates": [
+        {
+          "timestamp": 1463869393,
+          "availability": "Περιορισμένα"
+        },
+        {
+          "timestamp": 1463858593,
+          "availability": "Διαθέσιμα"
+        },
+        {
+          "timestamp": 1461266593,
+          "availability": "Εξαντλήθηκαν"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Zone A",
+          "price": 15
+        },
+        {
+          "name": "Zone B",
+          "price": 12
+        },
+        {
+          "name": "Zone C",
+          "price": 10
+        },
+        {
+          "name": "Zone D",
+          "price": 19
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "The Bolshoi Ballet",
+      "thumbnail": "http://placehold.it/80x80",
+      "image": "http://placehold.it/600x240",
+      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "dates": [
+        {
+          "timestamp": 1463869393,
+          "availability": "Περιορισμένα"
+        },
+        {
+          "timestamp": 1463858593,
+          "availability": "Διαθέσιμα"
+        },
+        {
+          "timestamp": 1461266593,
+          "availability": "Εξαντλήθηκαν"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Zone A",
+          "price": 15
+        },
+        {
+          "name": "Zone B",
+          "price": 12
+        },
+        {
+          "name": "Zone C",
+          "price": 10
+        }
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "token": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "title": "The Bolshoi Ballet",
+      "thumbnail": "http://placehold.it/80x80",
+      "image": "http://placehold.it/600x240",
+      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "timestamp": 1463869393,
+      "category": "Zone A",
+      "price": 15,
+      "valid": "false"
+    },
+    {
+      "token": "452ac10b-58cc-4372-a567-0e02b2c3d123",
+      "title": "The Bolshoi Ballet",
+      "thumbnail": "http://placehold.it/80x80",
+      "image": "http://placehold.it/600x240",
+      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "timestamp": 1463869393,
+      "category": "Zone A",
+      "price": 15,
+      "valid": "true"
+    }
+  ],
+  "user-login": {
+    "access_token": "k6W6AE0QSS3kj2JY8gnSk6W6AE0QSS3kj2JY8gnS"
+  },
+  "user-details": {
+    "name": "Demo User",
+    "email": "demo@usersemail.gr",
+    "role": "user"
+  }
+}
