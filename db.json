@@ -139,6 +139,17 @@
       "valid": "true"
     }
   ],
+  "checkTicket": {
+    "title": "The Bolshoi Ballet",
+    "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+    "timestamp": 1463869393,
+    "category": "Zone A",
+    "price": 15,
+    "valid": "true"
+  },
+  "activateTicket": {
+    "message": "Your ticket is activated"
+  },
   "userLogin": {
     "access_token": "k6W6AE0QSS3kj2JY8gnSk6W6AE0QSS3kj2JY8gnS"
   },
@@ -148,9 +159,9 @@
     "email": "demo@usersemail.gr",
     "role": "user"
   },
-  "userRegister" : {
-      "name": "Demo",
-      "surname": "Demo",
-      "email": "demo@usersemail.gr"
+  "userRegister": {
+    "name": "Demo",
+    "surname": "Demo",
+    "email": "demo@usersemail.gr"
   }
 }
