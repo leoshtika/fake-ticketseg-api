@@ -139,6 +139,28 @@
       "valid": "true"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "buyer1@usersemail.gr",
+      "username": "buyer1",
+      "password": "12345",
+      "role": "buyer",
+      "access_token": "k6W6AE0QSSfsugeugfsE4387s3kj2JY8gnSk6W6"
+    },
+    {
+      "id": 2,
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "collector1@usersemail.gr",
+      "username": "collector1",
+      "password": "12345",
+      "role": "collector",
+      "access_token": "fjheejuh3hsfeheEFG8wsSEe8eSeSPQI4ssfse4"
+    }
+  ],
   "checkTicket": {
     "title": "The Bolshoi Ballet",
     "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
@@ -149,19 +171,5 @@
   },
   "activateTicket": {
     "message": "Your ticket is activated"
-  },
-  "userLogin": {
-    "access_token": "k6W6AE0QSS3kj2JY8gnSk6W6AE0QSS3kj2JY8gnS"
-  },
-  "userDetails": {
-    "name": "Demo",
-    "surname": "Demo",
-    "email": "demo@usersemail.gr",
-    "role": "user"
-  },
-  "userRegister": {
-    "name": "Demo",
-    "surname": "Demo",
-    "email": "demo@usersemail.gr"
   }
 }
