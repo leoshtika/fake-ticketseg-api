@@ -156,7 +156,7 @@
       "lastname": "Doe",
       "email": "buyer1@usersemail.gr",
       "username": "buyer1",
-      "password": "12345",
+      "password": "buyer1",
       "role": "buyer",
       "access_token": "k6W6AE0QSSfsugeugfsE4387s3kj2JY8gnSk6W6"
     },
@@ -166,7 +166,7 @@
       "lastname": "Smith",
       "email": "collector1@usersemail.gr",
       "username": "collector1",
-      "password": "12345",
+      "password": "collector1",
       "role": "collector",
       "access_token": "fjheejuh3hsfeheEFG8wsSEe8eSeSPQI4ssfse4"
     }
