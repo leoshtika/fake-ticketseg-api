@@ -7,6 +7,8 @@
       "image": "http://placehold.it/600x240",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "location": "The Fox Theatre",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "dates": [
         {
           "timestamp": 1463869393,
@@ -43,6 +45,8 @@
       "image": "http://placehold.it/600x240",
       "description": "Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "location": "Block 33",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "dates": [
         {
           "timestamp": 1463869393,
@@ -83,6 +87,8 @@
       "image": "http://placehold.it/600x240",
       "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "dates": [
         {
           "timestamp": 1463869393,
@@ -121,6 +127,8 @@
       "image": "http://placehold.it/600x240",
       "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "timestamp": 1463869393,
       "category": "Zone A",
       "price": 15,
@@ -133,6 +141,8 @@
       "image": "http://placehold.it/600x240",
       "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
+      "latitude": 40.6401,
+      "longitude": 22.9444,
       "timestamp": 1463869393,
       "category": "Zone A",
       "price": 15,
