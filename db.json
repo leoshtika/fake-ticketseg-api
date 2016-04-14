@@ -181,5 +181,9 @@
   },
   "activateTicket": {
     "message": "Your ticket is activated"
+  },
+  "purchaseTickets": {
+    "message": "Thank you for your purchase.",
+    "transactionCode": "A3R9TB13"
   }
 }
