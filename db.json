@@ -2,119 +2,103 @@
   "events": [
     {
       "id": 100,
-      "title": "Sinatra Live Tribute",
-      "thumbnail": "http://placehold.it/80x80",
-      "image": "http://placehold.it/600x240",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "location": "The Fox Theatre",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
+      "title": "Adele",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
+      "description": "Having broken all records and topped the charts instantly, Adele’s latest album titled ‘25’ has become a gargantuan success. Featuring hits such as ‘Hello’, ‘I Miss You’ and ‘Love in the Dark’, Adele has proven to her fans worldwide that she is a world class singer who deserves their affection.",
+      "location": "Tele 2 Arena, Stockholm, Sweden",
+      "latitude": 59.29109,
+      "longitude": 18.084382,
       "dates": [
         {
-          "timestamp": 1463869393,
-          "availability": "Περιορισμένα"
+          "timestamp": 1463511600,
+          "availability": "Limited"
         },
         {
-          "timestamp": 1463858593,
-          "availability": "Διαθέσιμα"
+          "timestamp": 1463598000,
+          "availability": "Available"
         },
         {
-          "timestamp": 1461266593,
-          "availability": "Εξαντλήθηκαν"
+          "timestamp": 1463684400,
+          "availability": "Sold out"
         }
       ],
       "categories": [
         {
-          "name": "Zone A",
-          "price": 15
+          "name": "Upper Tier",
+          "price": 180
         },
         {
-          "name": "Zone B",
-          "price": 12
+          "name": "Floor Seating",
+          "price": 705
         },
         {
-          "name": "Zone C",
-          "price": 10
+          "name": "Middle Floor",
+          "price": 899
         }
       ]
     },
     {
       "id": 101,
-      "title": "The Baroque Project",
-      "thumbnail": "http://placehold.it/80x80",
-      "image": "http://placehold.it/600x240",
-      "description": "Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "location": "Block 33",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
+      "title": "Andrea Bocelli",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/bocelli-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/bocelli-600x320.jpg",
+      "description": "Andrea Bocelli has delighted crowds the world over for years with his distinctive tenor voice. Internationally recognized as one of the finest tenors of his generation, attending an Andrea Bocelli concert is a cherishable experience.",
+      "location": "Du Arena, Abu Dhabi",
+      "latitude": 24.480772,
+      "longitude": 54.605827,
       "dates": [
         {
-          "timestamp": 1463869393,
-          "availability": "Περιορισμένα"
+          "timestamp": 1465740000,
+          "availability": "Available"
         },
         {
-          "timestamp": 1463858593,
-          "availability": "Διαθέσιμα"
-        },
-        {
-          "timestamp": 1461266593,
-          "availability": "Εξαντλήθηκαν"
+          "timestamp": 1465912800,
+          "availability": "Available"
         }
       ],
       "categories": [
         {
-          "name": "Zone A",
-          "price": 15
+          "name": "B Reserve",
+          "price": 120
         },
         {
-          "name": "Zone B",
-          "price": 12
+          "name": "Premium",
+          "price": 150
         },
         {
-          "name": "Zone C",
-          "price": 10
-        },
-        {
-          "name": "Zone D",
-          "price": 19
+          "name": "VIP",
+          "price": 312
         }
       ]
     },
     {
       "id": 102,
-      "title": "The Bolshoi Ballet",
-      "thumbnail": "http://placehold.it/80x80",
-      "image": "http://placehold.it/600x240",
-      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
+      "title": "Moto GP San Marino",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/motogp-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/motogp-600x320.jpg",
+      "description": "Find the Moto GP San Marino 2016 tickets you're looking for on ticketSEG. Select an event from the Moto GP San Marino 2016 fixtures to view the range of tickets available. All Moto GP San Marino tickets are covered by the ticketSEG Ticket guarantee!",
+      "location": "Misano Adriatico, Italy",
+      "latitude": 43.961786,
+      "longitude": 12.683494,
       "dates": [
         {
-          "timestamp": 1463869393,
-          "availability": "Περιορισμένα"
-        },
-        {
-          "timestamp": 1463858593,
-          "availability": "Διαθέσιμα"
-        },
-        {
-          "timestamp": 1461266593,
-          "availability": "Εξαντλήθηκαν"
+          "timestamp": 1473609600,
+          "availability": "Available"
         }
       ],
       "categories": [
         {
-          "name": "Zone A",
-          "price": 15
+          "name": "Prato",
+          "price": 101
         },
         {
-          "name": "Zone B",
-          "price": 12
+          "name": "Tribuna Brutapela",
+          "price": 196
         },
         {
-          "name": "Zone C",
-          "price": 10
+          "name": "Tribuna C",
+          "price": 250
         }
       ]
     }
@@ -122,30 +106,30 @@
   "tickets": [
     {
       "token": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-      "title": "The Bolshoi Ballet",
-      "thumbnail": "http://placehold.it/80x80",
-      "image": "http://placehold.it/600x240",
-      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
-      "timestamp": 1463869393,
-      "category": "Zone A",
-      "price": 15,
+      "title": "Adele",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
+      "description": "Having broken all records and topped the charts instantly, Adele’s latest album titled ‘25’ has become a gargantuan success. Featuring hits such as ‘Hello’, ‘I Miss You’ and ‘Love in the Dark’, Adele has proven to her fans worldwide that she is a world class singer who deserves their affection.",
+      "location": "Tele 2 Arena, Stockholm, Sweden",
+      "latitude": 59.29109,
+      "longitude": 18.084382,
+      "timestamp": 1463511600,
+      "category": "Upper Tier",
+      "price": 180,
       "valid": "false"
     },
     {
       "token": "452ac10b-58cc-4372-a567-0e02b2c3d123",
-      "title": "The Bolshoi Ballet",
-      "thumbnail": "http://placehold.it/80x80",
-      "image": "http://placehold.it/600x240",
-      "description": "Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
-      "latitude": 40.6401,
-      "longitude": 22.9444,
-      "timestamp": 1463869393,
-      "category": "Zone A",
-      "price": 15,
+      "title": "Adele",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
+      "description": "Having broken all records and topped the charts instantly, Adele’s latest album titled ‘25’ has become a gargantuan success. Featuring hits such as ‘Hello’, ‘I Miss You’ and ‘Love in the Dark’, Adele has proven to her fans worldwide that she is a world class singer who deserves their affection.",
+      "location": "Tele 2 Arena, Stockholm, Sweden",
+      "latitude": 59.29109,
+      "longitude": 18.084382,
+      "timestamp": 1463511600,
+      "category": "Upper Tier",
+      "price": 180,
       "valid": "true"
     }
   ],
