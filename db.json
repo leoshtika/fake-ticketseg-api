@@ -133,6 +133,36 @@
       "valid": "true"
     }
   ],
+  "scannedTickets": [
+    {
+      "token": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "title": "Adele",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
+      "description": "Having broken all records and topped the charts instantly, Adele’s latest album titled ‘25’ has become a gargantuan success. Featuring hits such as ‘Hello’, ‘I Miss You’ and ‘Love in the Dark’, Adele has proven to her fans worldwide that she is a world class singer who deserves their affection.",
+      "location": "Tele 2 Arena, Stockholm, Sweden",
+      "latitude": 59.29109,
+      "longitude": 18.084382,
+      "timestamp": 1463511600,
+      "category": "Upper Tier",
+      "price": 180,
+      "valid": "false"
+    },
+    {
+      "token": "452ac10b-58cc-4372-a567-0e02b2c3d123",
+      "title": "Adele",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
+      "description": "Having broken all records and topped the charts instantly, Adele’s latest album titled ‘25’ has become a gargantuan success. Featuring hits such as ‘Hello’, ‘I Miss You’ and ‘Love in the Dark’, Adele has proven to her fans worldwide that she is a world class singer who deserves their affection.",
+      "location": "Tele 2 Arena, Stockholm, Sweden",
+      "latitude": 59.29109,
+      "longitude": 18.084382,
+      "timestamp": 1463511600,
+      "category": "Upper Tier",
+      "price": 180,
+      "valid": "true"
+    }
+  ],
   "users": [
     {
       "id": 1,
