@@ -116,7 +116,7 @@
       "timestamp": 1463511600,
       "category": "Upper Tier",
       "price": 180,
-      "valid": "false"
+      "valid": "No"
     },
     {
       "token": "452ac10b-58cc-4372-a567-0e02b2c3d123",
@@ -130,7 +130,7 @@
       "timestamp": 1463511600,
       "category": "Upper Tier",
       "price": 180,
-      "valid": "true"
+      "valid": "Yes"
     }
   ],
   "users": [
