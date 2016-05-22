@@ -105,7 +105,7 @@
   ],
   "tickets": [
     {
-      "token": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
       "title": "Adele",
       "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
       "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
@@ -116,10 +116,10 @@
       "timestamp": 1463511600,
       "category": "Upper Tier",
       "price": 180,
-      "valid": "No"
+      "valid": "Yes"
     },
     {
-      "token": "452ac10b-58cc-4372-a567-0e02b2c3d123",
+      "id": "452ac10b-58cc-4372-a567-0e02b2c3d123",
       "title": "Adele",
       "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/adele-80x80.jpg",
       "image": "http://leonard.shtika.info/ihu/mad/pics/adele-600x320.jpg",
