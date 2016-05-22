@@ -131,6 +131,48 @@
       "category": "Upper Tier",
       "price": 180,
       "valid": "Yes"
+    },
+    {
+      "id": "90bd0d72-275e-40e2-a0c4-b39c01a98785",
+      "title": "Andrea Bocelli",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/bocelli-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/bocelli-600x320.jpg",
+      "description": "Andrea Bocelli has delighted crowds the world over for years with his distinctive tenor voice. Internationally recognized as one of the finest tenors of his generation, attending an Andrea Bocelli concert is a cherishable experience.",
+      "location": "Du Arena, Abu Dhabi",
+      "latitude": 24.480772,
+      "longitude": 54.605827,
+      "timestamp": 1465912800,
+      "category": "Premium",
+      "price": 150,
+      "valid": "Yes"
+    },
+    {
+      "id": "c67c6af5-56c3-482f-9718-c862a577768d",
+      "title": "Andrea Bocelli",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/bocelli-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/bocelli-600x320.jpg",
+      "description": "Andrea Bocelli has delighted crowds the world over for years with his distinctive tenor voice. Internationally recognized as one of the finest tenors of his generation, attending an Andrea Bocelli concert is a cherishable experience.",
+      "location": "Du Arena, Abu Dhabi",
+      "latitude": 24.480772,
+      "longitude": 54.605827,
+      "timestamp": 1465912800,
+      "category": "Premium",
+      "price": 150,
+      "valid": "Yes"
+    }
+    {
+      "id": "759f5659-b314-4cbc-ad10-d81e0d33128d",
+      "title": "Andrea Bocelli",
+      "thumbnail": "http://leonard.shtika.info/ihu/mad/pics/bocelli-80x80.jpg",
+      "image": "http://leonard.shtika.info/ihu/mad/pics/bocelli-600x320.jpg",
+      "description": "Andrea Bocelli has delighted crowds the world over for years with his distinctive tenor voice. Internationally recognized as one of the finest tenors of his generation, attending an Andrea Bocelli concert is a cherishable experience.",
+      "location": "Du Arena, Abu Dhabi",
+      "latitude": 24.480772,
+      "longitude": 54.605827,
+      "timestamp": 1463511600,
+      "category": "VIP",
+      "price": 312,
+      "valid": "Yes"
     }
   ],
   "users": [
@@ -155,14 +197,6 @@
       "access_token": "fjheejuh3hsfeheEFG8wsSEe8eSeSPQI4ssfse4"
     }
   ],
-  "checkTicket": {
-    "title": "The Bolshoi Ballet",
-    "location": "Μέγαρο Μουσικής Θεσσαλονίκης",
-    "timestamp": 1463869393,
-    "category": "Zone A",
-    "price": 15,
-    "valid": "true"
-  },
   "purchaseTickets": {
     "message": "Thank you for your purchase.",
     "transactionCode": "A3R9TB13"
